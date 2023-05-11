@@ -1,3 +1,5 @@
+# LAO* Solver for SSPs
+
 import numpy as np
 
 class LAOStarSolver():
